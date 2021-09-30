@@ -1,0 +1,28 @@
+body
+{
+    min-width: 500px;
+    min-height: 500px;
+    margin: 0;
+    background-color: #e5e5e5;
+}
+
+html
+{
+    background-color: white;
+}
+
+.icon-header
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.header
+{
+    background-color: #ffffff;
+}
+
+.content
+{
+    background-color: #e5e5e5;
+}
